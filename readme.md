@@ -99,28 +99,3 @@ Flask-Uppercase-Converter/
 GitHub: [https://github.com/nikhilborade0412](https://github.com/nikhilborade0412)
 
 ---
-
-## 📜 License
-
-This project is for learning and educational purposes.
-
-```
-
----
-
-## ✅ Next Steps (Optional but Recommended)
-
-- ⭐ Pin this repo on your GitHub profile  
-- 📸 Add screenshots in README  
-- 📝 Mention this project in your resume  
-- 🧠 Add a second feature (lowercase / title case)
-
----
-
-### 🎤 Interview-Ready One-Liner
-
-> “I built and deployed a Flask web application that processes user input via forms and hosted it on Render using Gunicorn.”
-
----
-
-
