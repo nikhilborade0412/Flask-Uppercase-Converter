@@ -49,7 +49,7 @@ Flask-Uppercase-Converter/
 ├── app.py
 ├── requirements.txt
 └── templates/
-└── index.html
+    └── index.html
 
 ````
 
@@ -122,3 +122,4 @@ This project is for learning and educational purposes.
 > “I built and deployed a Flask web application that processes user input via forms and hosted it on Render using Gunicorn.”
 
 ---
+
